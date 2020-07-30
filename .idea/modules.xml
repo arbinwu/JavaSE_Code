@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/idea_demo/idea_demo.iml" filepath="$PROJECT_DIR$/idea_demo/idea_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_test/idea_test.iml" filepath="$PROJECT_DIR$/idea_test/idea_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDuoTai/myDuoTai.iml" filepath="$PROJECT_DIR$/myDuoTai/myDuoTai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myFinal/myFinal.iml" filepath="$PROJECT_DIR$/myFinal/myFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myStatic/myStatic.iml" filepath="$PROJECT_DIR$/myStatic/myStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentManager/studentManager.iml" filepath="$PROJECT_DIR$/studentManager/studentManager.iml" />
+    </modules>
+  </component>
+</project>
