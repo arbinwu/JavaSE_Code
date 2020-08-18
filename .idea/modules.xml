@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/myAPI/myAPI.iml" filepath="$PROJECT_DIR$/myAPI/myAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/myAbstract/myAbstract.iml" filepath="$PROJECT_DIR$/myAbstract/myAbstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/myCollection/myCollection.iml" filepath="$PROJECT_DIR$/myCollection/myCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCollections/myCollections.iml" filepath="$PROJECT_DIR$/myCollections/myCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/myDuoTai/myDuoTai.iml" filepath="$PROJECT_DIR$/myDuoTai/myDuoTai.iml" />
       <module fileurl="file://$PROJECT_DIR$/myException/myException.iml" filepath="$PROJECT_DIR$/myException/myException.iml" />
       <module fileurl="file://$PROJECT_DIR$/myFinal/myFinal.iml" filepath="$PROJECT_DIR$/myFinal/myFinal.iml" />
