@@ -8,8 +8,10 @@ public class TreeSetDemo03 {
         TreeSet<Student> ts = new TreeSet<Student>(new Comparator<Student>() {
             @Override
             public int compare(Student o1, Student o2) {
+//                System.out.println(o1.getName() + "," + o2.getName());
                 int num1 = o1.getAge() - o2.getAge();
                 return num1 == 0 ? o1.getName().compareTo(o2.getName()) : num1;
+//                return -1;
             }
         });
 

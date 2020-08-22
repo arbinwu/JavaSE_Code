@@ -31,11 +31,11 @@ public class Student implements Comparable<Student> {
     @Override
     public int compareTo(Student o) {
 //        return 0; 认为是相同元素。不进行添加
-//        return 1; 认为是升序
-//        return -1;  认为是降序
+//        return 1; 认为不需要交换位置
+//        return -1;  认为需要交换位置
 
         //按照年龄从小到大
-        int num = this.age - o.age; //this 代表s2，会和s1进行比较；即升序排序   交换位置即可实现降序
+        int num = this.age - o.age; //this 代表s2，会和s1进行比较
 
         //年龄相同时 按照姓名排序
         int num2 = num == 0 ? this.name.compareTo(o.name) : num;
