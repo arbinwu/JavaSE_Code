@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/myMap/myMap.iml" filepath="$PROJECT_DIR$/myMap/myMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/mySet/mySet.iml" filepath="$PROJECT_DIR$/mySet/mySet.iml" />
       <module fileurl="file://$PROJECT_DIR$/myStatic/myStatic.iml" filepath="$PROJECT_DIR$/myStatic/myStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myThread/myThread.iml" filepath="$PROJECT_DIR$/myThread/myThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/studentManager/studentManager.iml" filepath="$PROJECT_DIR$/studentManager/studentManager.iml" />
     </modules>
   </component>
