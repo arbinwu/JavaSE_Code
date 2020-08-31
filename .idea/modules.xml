@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/myInterfaceFormation/myInterfaceFormation.iml" filepath="$PROJECT_DIR$/myInterfaceFormation/myInterfaceFormation.iml" />
       <module fileurl="file://$PROJECT_DIR$/myLambda/myLambda.iml" filepath="$PROJECT_DIR$/myLambda/myLambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/myMap/myMap.iml" filepath="$PROJECT_DIR$/myMap/myMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myMethodReference/myMethodReference.iml" filepath="$PROJECT_DIR$/myMethodReference/myMethodReference.iml" />
       <module fileurl="file://$PROJECT_DIR$/myNet/myNet.iml" filepath="$PROJECT_DIR$/myNet/myNet.iml" />
       <module fileurl="file://$PROJECT_DIR$/mySet/mySet.iml" filepath="$PROJECT_DIR$/mySet/mySet.iml" />
       <module fileurl="file://$PROJECT_DIR$/myStatic/myStatic.iml" filepath="$PROJECT_DIR$/myStatic/myStatic.iml" />
