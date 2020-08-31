@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/myIO/myIO.iml" filepath="$PROJECT_DIR$/myIO/myIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/myInnerClass/myInnerClass.iml" filepath="$PROJECT_DIR$/myInnerClass/myInnerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/myInterface/myInterface.iml" filepath="$PROJECT_DIR$/myInterface/myInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myInterfaceFormation/myInterfaceFormation.iml" filepath="$PROJECT_DIR$/myInterfaceFormation/myInterfaceFormation.iml" />
       <module fileurl="file://$PROJECT_DIR$/myLambda/myLambda.iml" filepath="$PROJECT_DIR$/myLambda/myLambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/myMap/myMap.iml" filepath="$PROJECT_DIR$/myMap/myMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/myNet/myNet.iml" filepath="$PROJECT_DIR$/myNet/myNet.iml" />
