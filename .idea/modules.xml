@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/myDuoTai/myDuoTai.iml" filepath="$PROJECT_DIR$/myDuoTai/myDuoTai.iml" />
       <module fileurl="file://$PROJECT_DIR$/myException/myException.iml" filepath="$PROJECT_DIR$/myException/myException.iml" />
       <module fileurl="file://$PROJECT_DIR$/myFinal/myFinal.iml" filepath="$PROJECT_DIR$/myFinal/myFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myFunctionalInterface/myFunctionalInterface.iml" filepath="$PROJECT_DIR$/myFunctionalInterface/myFunctionalInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/myGeneric/myGeneric.iml" filepath="$PROJECT_DIR$/myGeneric/myGeneric.iml" />
       <module fileurl="file://$PROJECT_DIR$/myIO/myIO.iml" filepath="$PROJECT_DIR$/myIO/myIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/myInnerClass/myInnerClass.iml" filepath="$PROJECT_DIR$/myInnerClass/myInnerClass.iml" />
